@@ -6,6 +6,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 <!--
 **la-only/la-only** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
