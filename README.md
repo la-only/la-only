@@ -22,14 +22,23 @@
 ![swagger](https://img.shields.io/badge/Swagger-85EA2D.svg?style=for-the-badge&logo=Swagger&logoColor=black)
 ![git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![hackerrank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white)
-
-<!--
-![vscode](https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![bitbucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)
+![appstore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![googleplay](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
+
+![Russia_Siberia_Kuzbass_300y](https://forthebadge.com/images/badges/winter-is-coming.svg)
+
+
+<!-- 
+![vscode](https://img.shields.io/badge/Visual Studio Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
 ![googleplay](https://img.shields.io/badge/Google Play-414141.svg?style=for-the-badge&logo=Google-Play&logoColor=white)
+
 ![appstore](https://img.shields.io/badge/App Store-0D96F6.svg?style=for-the-badge&logo=App-Store&logoColor=white)
-!(appgallery](https://img.shields.io/badge/Huawei-FF0000.svg?style=for-the-badge&logo=Huawei&logoColor=white)
--->
+
+!(appgallery](https://img.shields.io/badge/Huawei-FF0000.svg?style=for-the-badge&logo=Huawei&logoColor=white) -->
+
 
 
 <!--
